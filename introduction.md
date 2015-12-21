@@ -6,3 +6,4 @@ Hi I'm Olivia
 * SQL
 * Java
 * C++
+* Killing history using git rebase
